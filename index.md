@@ -1,4 +1,6 @@
-## Publications:
+## About:
+   Currently I am a research engineer at STARS Team, INRIA Sophia Antipolis, France.
 
-## Contacts: 
-Email: hung (dot) nguyen [at] inria (dot) fr
+## Publications:
+   (Comming soon.)
+
